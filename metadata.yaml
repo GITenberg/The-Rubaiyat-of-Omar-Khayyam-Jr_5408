@@ -1,5 +1,8 @@
 _repo: The-Rubaiyat-of-Omar-Khayyam-Jr_5408
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Irwin, Wallace
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1567'
     url: http://www.gutenberg.org/2009/agents/1567
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5408#The-Rubaiyat-of-Omar-Khayyam-Jr
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
