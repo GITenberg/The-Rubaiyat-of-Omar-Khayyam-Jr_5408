@@ -1,5 +1,5 @@
 _repo: The-Rubaiyat-of-Omar-Khayyam-Jr_5408
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,5 +25,6 @@ subjects:
 - !lcsh 'Omar Khayyam -- Parodies, imitations, etc.'
 - !lcsh 'Humorous poetry'
 - !lcc 'PS'
+- GITenberg
 title: The Rubaiyat of Omar Khayyam Jr.
 url: http://www.gutenberg.org/ebooks/5408
